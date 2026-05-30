@@ -19,8 +19,8 @@ Tags:
 - web
 - web-browser
 - webpage
-ReleaseNotes: Nightly build based on servo/servo@f7876c3db8d8703f8bea39516b5ed4b5b74a09b8
-ReleaseNotesUrl: https://github.com/servo/servo-nightly-builds/releases/tag/2026-03-27
+ReleaseNotes: Nightly build based on servo/servo@b891f04d0819272b27e80ac975e2e57d3cb9e66b
+ReleaseNotesUrl: https://github.com/servo/servo-nightly-builds/releases/tag/2026-05-29
 Documentations:
 - DocumentLabel: Wiki
   DocumentUrl: https://github.com/servo/servo/wiki
